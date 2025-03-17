@@ -2,8 +2,8 @@
 
 Original repository: https://github.com/biocryst/biozernike/
 
-See 
-https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-similarity-search#what-is-structure-similarity-search
+See     
+https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-similarity-search#what-is-structure-similarity-search     
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007970
 
 
