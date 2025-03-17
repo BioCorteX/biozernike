@@ -1,3 +1,16 @@
+# David's fork
+
+Original repository: https://github.com/biocryst/biozernike/
+
+See 
+https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-similarity-search#what-is-structure-similarity-search
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007970
+
+
+
+--------------------------------------------------------------------------------------
+
+
 # BioZernike
 Protein structure descriptors and alignment based on 3D Zernike moments.
 
