@@ -2,6 +2,20 @@
 
 Original repository: https://github.com/biocryst/biozernike/
 
+Allow to build a simple executable for bcx-enigma to create 
+```
+java -jar bin/biozernike-1.0.0-SNAPSHOT.jar files/2euf.cif
+```
+
+Steps to build the jar executable
+```
+# install if any fail
+java --version
+nvm --version
+
+mvn clean package
+```
+
 See     
 https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-similarity-search#what-is-structure-similarity-search     
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007970
