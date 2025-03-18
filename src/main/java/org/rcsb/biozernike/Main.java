@@ -30,6 +30,10 @@ public class Main {
         Volume volumeStructure = new Volume();
         volumeStructure.create(reprPoints, resNames);
         InvariantNorm normalizationStructure = new InvariantNorm(volumeStructure, 6);
-        System.out.println("cif file " + filePath + "=" + normalizationStructure.getInvariants(2));
+        System.out.println(filePath + "|=|2|=|" + normalizationStructure.getInvariants(2));
+        System.out.println(filePath + "|=|3|=|" + normalizationStructure.getInvariants(3));
+        System.out.println(filePath + "|=|4|=/" + normalizationStructure.getInvariants(4));
+        System.out.println(filePath + "|=|5|=|" + normalizationStructure.getInvariants(5));
+        System.out.println(filePath + "|=|6|=|" + normalizationStructure.getInvariants(6));
     }
 }
